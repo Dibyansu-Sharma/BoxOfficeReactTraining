@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoxOfficeReactTraining/static/css/main.b2586571.css",
+    "main.js": "/BoxOfficeReactTraining/static/js/main.3bae21e4.js",
+    "index.html": "/BoxOfficeReactTraining/index.html",
+    "main.b2586571.css.map": "/BoxOfficeReactTraining/static/css/main.b2586571.css.map",
+    "main.3bae21e4.js.map": "/BoxOfficeReactTraining/static/js/main.3bae21e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.3bae21e4.js"
+  ]
+}
